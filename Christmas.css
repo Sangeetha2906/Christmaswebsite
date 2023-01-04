@@ -1,0 +1,37 @@
+.bgimg{
+	background-image: url('https://png.pngtree.com/background/20210715/original/pngtree-luxury-christmas-background-with-christmas-lamp-picture-image_1256464.jpg');
+	background-size: cover;
+	height: 40vh;
+}
+.heading{
+	padding-top: 210px;
+	color: purple;
+	font-family: 'Prosto One';
+	padding-left: 40px;
+	font-weight: bold;
+}
+.bgcolor{
+	background-color: #EBCEAC;
+	height: 60vh;
+}
+.hat{
+	height: 80px;
+	width: 80px;
+}
+.layoutcard{
+	background-color: white;
+	width: 150px;
+	border-radius: 15px;
+	padding: 5px;
+	height: 150px;
+	text-align: center;
+	margin: 20px;
+}
+.heading2{
+	font-size: 15px;
+	font-family: 'Prosto One';
+	font-weight: normal;
+}
+.paraline{
+	font-weight: bold;
+}
